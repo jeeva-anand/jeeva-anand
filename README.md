@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jeeva-anand/jeeva-anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-anand&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-anand&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
