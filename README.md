@@ -5,7 +5,17 @@
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
 - 📜 [My Resume]().
 
-To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<br/>
+To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<br/><br/>
+
+## Competitive Experience
+
+| 🏫 Collge Name| 👨‍💻 Event |📅 Date  | 🌟 Place  |🔗 Link |
+| --- | --- | --- | --- | --- |
+| [Christ University, Bengaluru](https://www.christuniversity.in/) | <p align="center"> IT Quiz </p>|08 Dec 2023 | Third | [Click](https://media.licdn.com/dms/image/D562DAQFJ55zUqgiikg/profile-treasury-image-shrink_800_800/0/1702998224388?e=1718704800&v=beta&t=ocDWTa3KrJInSor6e9sl5vxNaJ43Rv3t-5iimqht9zc) 
+| [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | Coding & Debugging |29 Mar 2023 | First | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view) 
+| [St Joseph’s University, Bengaluru](https://www.sju.edu.in/)  |Coding & Debugging| 27 Mar 2023 | Second | [Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
+| [Christ University, Bengaluru](https://www.christuniversity.in/) | Coding & Debugging | 23 Sep 2022| Second | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
+| [Hindusthan College, Coimbatore](https://hicet.ac.in/) |Coding & Debugging | 7 Feb 2020  | Third| [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)   
 
 ## Work Experience
 
@@ -53,15 +63,6 @@ The history of AI and ML has been exponential in the past five years. We can use
 <br/> Gateways happened on September 23, 2K22. I was pursuing my MSc in CS at St. Joseph’s University. Then, in my class group, I explored the brochure. I was interested in the coding event, so I registered for it.....</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-## Competitive Experience
-
-| 🏢 Place | ⌚ Date | 🔗 Link |
-| --- | --- | --- |
-| [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | 29 Mar 2023  | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view)
-|||
-| [St Joseph’s University, Bengaluru](https://www.sju.edu.in/)  | 27 Mar 2023  | [Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
-| [Christ University, Bengaluru](https://www.christuniversity.in/)  | 23 Sep 2022 | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
-| [ Hindusthan College, Coimbatore](https://hicet.ac.in/) | 7 Feb 2020  | [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)
 
 <!--
 # ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-anand&theme=gruvbox)
