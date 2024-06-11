@@ -51,28 +51,19 @@ The history of AI and ML has been exponential in the past five years. We can use
 <a href="https://medium.com/@jeevaanand93002/gateways-2022-at-christ-08f1cb07429a" title="Gateways 2022 at Christ"><strong>Gateways 2022 at Christ</strong></a>
 <div><strong>25 March 2024</strong> | <strong>Updated: 30 March 2024</strong></div>
 <br/> Gateways happened on September 23, 2K22. I was pursuing my MSc in CS at St. Joseph’s University. Then, in my class group, I explored the brochure. I was interested in the coding event, so I registered for it.....</p> <br/> <br/>
-
-
 <!-- HASHNODE_BLOG:END -->
 
-## Work Experience
+## Competitive Experience
 
-
-| 🏢 Company | 💼 Role | ⏰ Duration |
+| 🏢 Place | ⌚ Date | 🔗 Link |
 | --- | --- | --- |
-| [Google](https://www.google.com) | SWE | June 2023 - Present |
+| [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | 29 Mar 2023  | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view)
 |||
-| [GMetriXR](https://www.gmetri.com/) | SDE Intern (AR/VR) | Apr 2023 - June 2023 |
-| [Cypherock](https://www.cypherock.com) | SDE Intern | Oct 2022 - Mar 2023 |
-| [Google](https://www.google.com) | SWE Intern | May 2022 - June 2022 |
-| [Summer Of Bitcoin](https://summerofbitcoin.org/) | Mentee & Open Source Contributor | July 2021 - Sep 2021 |
-| [Coronasafe](https://life.coronasafe.network/) | Full Stack Developer | Feb 2021 - Jun 2021 |
-| [Hollyface](https://hollyface.com/) | Full Stack Developer | Aug 2020 - Oct 2020 |
-| [Banbreach](https://banbreach.com/) | Software Intern | Apr 2020 - Aug 2020 |
+| [St Joseph’s University, Bengaluru](https://www.sju.edu.in/)  | 27 Mar 2023  | [Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
+| [Christ University, Bengaluru](https://www.christuniversity.in/)  | 23 Sep 2022 | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
+| [ Hindusthan College, Coimbatore](https://hicet.ac.in/) | 7 Feb 2020  | [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)
 
-
+<!--
 # ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeva-anand&theme=gruvbox)
-
 #  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-anand&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
