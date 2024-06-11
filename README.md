@@ -11,17 +11,29 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 | 🏫 Collge Name| 👨‍💻 Event |📅 Date  | 🌟 Place  |🔗 Link |
 | --- | --- | --- | --- | --- |
-| [Christ University, Bengaluru](https://www.christuniversity.in/) | <p align="center"> IT Quiz </p>|08 Dec 2023 | Third | [Click](https://media.licdn.com/dms/image/D562DAQFJ55zUqgiikg/profile-treasury-image-shrink_800_800/0/1702998224388?e=1718704800&v=beta&t=ocDWTa3KrJInSor6e9sl5vxNaJ43Rv3t-5iimqht9zc) 
-| [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | Coding & Debugging |29 Mar 2023 | First | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view) 
-| [St Joseph’s University, Bengaluru](https://www.sju.edu.in/)  |Coding & Debugging| 27 Mar 2023 | Second | [Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
-| [Christ University, Bengaluru](https://www.christuniversity.in/) | Coding & Debugging | 23 Sep 2022| Second | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
-| [Hindusthan College, Coimbatore](https://hicet.ac.in/) |Coding & Debugging | 7 Feb 2020  | Third| [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)   
+| [Christ University, Bengaluru](https://www.christuniversity.in/) | <p align="center"> IT Quiz </p>|08 Dec 2023 | <p align="center"> Third </p> | [Click](https://media.licdn.com/dms/image/D562DAQFJ55zUqgiikg/profile-treasury-image-shrink_800_800/0/1702998224388?e=1718704800&v=beta&t=ocDWTa3KrJInSor6e9sl5vxNaJ43Rv3t-5iimqht9zc) 
+| [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | Coding & Debugging |29 Mar 2023 | <p align="center"> First </p> | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view) 
+| [St Joseph’s University, Bengaluru](https://www.sju.edu.in/) |Coding & Debugging|27 Mar 2023|<p align="center">Second </p>|[Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
+| [Christ University, Bengaluru](https://www.christuniversity.in/) | Coding & Debugging | 23 Sep 2022| <p align="center"> Second </p> | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
+| [Hindusthan College, Coimbatore](https://hicet.ac.in/) |Coding & Debugging | 7 Feb 2020  |<p align="center">Third </p>| [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)   
+
+<br/>
+
+## Awards & Achievements
+
+| 🏫 Organization Name | 📅 Date  | 🌟 Award  |🔗 Link |
+| --- | --- | --- | --- | 
+| Pioneer College, Coimbatore | 2 June 2022 | Best Outgoing Student Award | [Click](https://media.licdn.com/dms/image/D562DAQG5I6Tdx-HXaQ/profile-treasury-image-shrink_800_800/0/1685180860661?e=1718704800&v=beta&t=V8yGncI2I2TJOd3TU_L8_tGi_7mTt24BwFg1PZZ82uc) 
+
+<br/>
 
 ## Work Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Ainqa](https://www.ainqa.com/) | SWE | June 2021 - June 2022 |
+
+<br/>
 
 ## My Blogs
 
