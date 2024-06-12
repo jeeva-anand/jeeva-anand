@@ -3,7 +3,7 @@
 - 💻 Ex - SWE at Ainqa
 - 👨‍🎓 MSc Graduate (**Dept. of Computer Science, St Joseph's University, Bengaluru**).
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
-- 📜 [My Resume]().
+- 📜 [My Resume](https://drive.google.com/file/d/18F2qgtyyDNYQP-tYG9-_DcemI3dD0H5C/view).
 
 To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<br/><br/>
 
