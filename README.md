@@ -1,4 +1,6 @@
-# Anand, 👨🏾‍💻 Software Developer
+/*# Anand, 👨🏾‍💻 Software Developer*/
+# Anand R 👨‍💻  
+### AI Engineer | Data Analyst | ML Enthusiast  
 
 - 💻 Ex - SWE at Ainqa
 - 👨‍🎓 MSc Graduate (**Dept. of Computer Science, St Joseph's University, Bengaluru**).
