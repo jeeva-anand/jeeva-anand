@@ -1,9 +1,9 @@
-/*# Anand, 👨🏾‍💻 Software Developer*/
-# Anand R 👨‍💻  
-### AI Engineer | Data Analyst | ML Enthusiast  
+# Anand, 👨‍💻  AI Engineer | Data Analyst | ML Enthusiast  
 
 - 💻 Ex - SWE at Ainqa
-- 👨‍🎓 MSc Graduate (**Dept. of Computer Science, St Joseph's University, Bengaluru**).
+- 👨‍🎓 MSc Artificial Intelligence @ De Montfort University Dubai  
+- 📍 Dubai, UAE  
+- 💡 Turning data into intelligent solutions  
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
 - 📜 [My Resume](https://drive.google.com/file/d/18F2qgtyyDNYQP-tYG9-_DcemI3dD0H5C/view).
 
