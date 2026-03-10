@@ -15,7 +15,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 | [Surana College, Bengaluru](https://www.suranacollege.edu.in/) | Coding & Debugging |29 Mar 2023 | <p align="center"> First </p> | [Click](https://drive.google.com/file/d/1j0TR6zzmRV9YT-a7W7UbgrdhXVTjQ_tx/view) 
 | [St Joseph’s University, Bengaluru](https://www.sju.edu.in/) |Coding & Debugging|27 Mar 2023|<p align="center">Second </p>|[Click](https://drive.google.com/file/d/1mg2McSgk6pIJ7H8Z_s3_lf83euDUPuXX/view)
 | [Christ University, Bengaluru](https://www.christuniversity.in/) | Coding & Debugging | 23 Sep 2022| <p align="center"> Second </p> | [Click](https://drive.google.com/file/d/1dsoFyVXnF32MdNqIMiz6aoL6JmKmksv3/view)
-| [Hindusthan College, Coimbatore](https://hicet.ac.in/) |Coding & Debugging | 7 Feb 2020  |<p align="center">Third </p>| [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)   
+| [Hindusthan College, Coimbatore](https://hicet.ac.in/) |Coding & Debugging | 07 Feb 2020  |<p align="center">Third </p>| [Click](https://drive.google.com/file/d/16UFWWk5AwMaRVx75rUAyNFFPOVLqb0_x/view)   
 
 <br/>
 
@@ -23,7 +23,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 | 🏫 Organization Name | 📅 Date  | 🌟 Award  |🔗 Link |
 | --- | --- | --- | --- | 
-| Pioneer College, Coimbatore | 2 June 2022 | Best Outgoing Student Award | [Click](https://media.licdn.com/dms/image/D562DAQG5I6Tdx-HXaQ/profile-treasury-image-shrink_800_800/0/1685180860661?e=1718704800&v=beta&t=V8yGncI2I2TJOd3TU_L8_tGi_7mTt24BwFg1PZZ82uc) 
+| Pioneer College, Coimbatore | 02 June 2022 | Best Outgoing Student Award | [Click](https://media.licdn.com/dms/image/D562DAQG5I6Tdx-HXaQ/profile-treasury-image-shrink_800_800/0/1685180860661?e=1718704800&v=beta&t=V8yGncI2I2TJOd3TU_L8_tGi_7mTt24BwFg1PZZ82uc) 
 
 <br/>
 
@@ -31,9 +31,9 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Ainqa](https://www.ainqa.com/) | Software Engineer | June 2021 - June 2022 |
-| [St Joseph's University](https://www.ainqa.com/](https://www.sju.edu.in/) | Assistant Professor | June 2025 - January 2026 
-| [HKBK College of Engineering](https://www.hkbk.edu.in/) | Assistant Professor | August 2024 - June 2025 |
+| [Ainqa](https://www.ainqa.com/) | Software Engineer | Jun 2021 - Jun 2022 |
+| [St Joseph's University](https://www.sju.edu.in/) | Assistant Professor | Jun 2025 - Jan 2026 
+| [HKBK College of Engineering](https://www.hkbk.edu.in/) | Assistant Professor | Aug 2024 - Jun 2025 |
 
 <br/>
 
