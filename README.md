@@ -2,8 +2,6 @@
 
 - 💻 Ex - SWE at Ainqa
 - 👨‍🎓 MSc Artificial Intelligence @ De Montfort University Dubai  
-- 📍 Dubai, UAE  
-- 💡 Turning data into intelligent solutions  
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
 - 📜 [My Resume](https://drive.google.com/file/d/18F2qgtyyDNYQP-tYG9-_DcemI3dD0H5C/view).
 
@@ -34,6 +32,8 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Ainqa](https://www.ainqa.com/) | SWE | June 2021 - June 2022 |
+| [St Joseph's University]([https://www.ainqa.com/](https://www.sju.edu.in/)) | Assistant Professor | June 2025 - January 2026 |
+| [HKBK College of Engineering](https://www.hkbk.edu.in/) | Assistant Professor | August 2024 - June 2025 |
 
 <br/>
 
