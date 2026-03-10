@@ -1,9 +1,9 @@
 # Anand, 👨‍💻  AI Engineer | Data Analyst | ML Enthusiast  
 
-- 💻 Ex - SWE at Ainqa
 - 👨‍🎓 MSc Artificial Intelligence @ De Montfort University Dubai  
+- 💻 Ex - Software Engineer at Ainqa
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
-- 📜 [My Resume](https://drive.google.com/file/d/18F2qgtyyDNYQP-tYG9-_DcemI3dD0H5C/view).
+- 📜 [My Resume](https://drive.google.com/file/d/1JR9H1SSTa3SMmtIn5l_yXs7UmoQ3h5ab/view?usp=drive_link).
 
 To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<br/><br/>
 
