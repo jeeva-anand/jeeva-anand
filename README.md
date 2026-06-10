@@ -1,4 +1,4 @@
-# Anand, 👨‍💻  Aspiring Machine Learning Engineer | MSc AI | Python | scikit-learn | XGBoost | NLP | Time Series Forecasting  
+# Anand, 👨‍💻  Aspiring Machine Learning Engineer 
 
 - 👨‍🎓 MSc AI @ De Montfort University Dubai  
 - 💻 Ex - Software Engineer at Ainqa
