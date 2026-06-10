@@ -1,6 +1,6 @@
-# Anand, 👨‍💻  AI Engineer | Data Analyst | ML Enthusiast  
+# Anand, 👨‍💻  Aspiring Machine Learning Engineer | MSc AI | Python | scikit-learn | XGBoost | NLP | Time Series Forecasting  
 
-- 👨‍🎓 MSc Artificial Intelligence @ De Montfort University Dubai  
+- 👨‍🎓 MSc AI @ De Montfort University Dubai  
 - 💻 Ex - Software Engineer at Ainqa
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
 - 📜 [My Resume](https://drive.google.com/file/d/1JR9H1SSTa3SMmtIn5l_yXs7UmoQ3h5ab/view?usp=drive_link).
