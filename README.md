@@ -1,5 +1,6 @@
-![Header](<img src="https://drive.google.com/file/d/1UkEORWc2dFs83Vd9fdg5couAfXssWRR8/view?usp=drive_link" alt="The Evolution of Artificial Intelligence Part 2" width="250px" align="left" />)
-
+<p align="center">
+  <img src="https://drive.google.com/file/d/1UkEORWc2dFs83Vd9fdg5couAfXssWRR8/view?usp=drive_link" width="100%">
+</p>
 
 # Anand, 👨‍💻  Machine Learning Engineer 
 
