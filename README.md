@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1UkEORWc2dFs83Vd9fdg5couAfXssWRR8/view?usp=drive_link" width="100%">
-</p>
+![Header](./github-header-banner.png)
 
 # Anand, 👨‍💻  Machine Learning Engineer 
 
