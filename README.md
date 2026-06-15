@@ -1,4 +1,4 @@
-# Anand, 👨‍💻  Aspiring Machine Learning Engineer 
+# Anand, 👨‍💻  Machine Learning Engineer 
 
 - 👨‍🎓 MSc AI @ De Montfort University Dubai  
 - 💻 Ex - Software Engineer at Ainqa
