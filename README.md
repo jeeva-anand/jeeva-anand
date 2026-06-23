@@ -5,7 +5,7 @@
 - 👨‍🎓 MSc AI @ De Montfort University Dubai  
 - 💻 Ex - Software Engineer at Ainqa
 - 📝 I blog at [anand.dev/blog](https://medium.com/@jeevaanand93002).
-- 📜 [My Resume](https://drive.google.com/file/d/1JR9H1SSTa3SMmtIn5l_yXs7UmoQ3h5ab/view?usp=drive_link).
+- 📜 [My Resume](https://drive.google.com/file/d/13CJdFag86FhBb2O0ZoPSu-dDCX1KyVoe/view?usp=sharing).
 
 To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<br/><br/>
 
