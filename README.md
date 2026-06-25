@@ -34,9 +34,11 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Ainqa](https://www.ainqa.com/) | Software Engineer | Jun 2021 - Jun 2022 |
-| [St Joseph's University](https://www.sju.edu.in/) | Assistant Professor | Jun 2025 - Jan 2026 
-| [HKBK College of Engineering](https://www.hkbk.edu.in/) | Assistant Professor | Aug 2024 - Jun 2025 |
+| [St Joseph's University](https://www.sju.edu.in/) | Assistant Professor | Aug 2024 - Jan 2026 
 
+<!--
+| [HKBK College of Engineering](https://www.hkbk.edu.in/) | Assistant Professor | Aug 2024 - Jun 2025 |
+-->
 <br/>
 
 ## My Blogs
