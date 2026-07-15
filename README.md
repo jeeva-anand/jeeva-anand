@@ -25,10 +25,10 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 <!-- HASHNODE_Project:START -->
 <p align="left">
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="The Evolution of Artificial Intelligence"><strong>Semantic Sentiment 
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/blob/main/reports/figures/banner.png" width="250px" align="left" /></a>
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="The Evolution of Artificial Intelligence"><strong>Semantic Sentiment Classification using NLP & Machine Learning</strong></a>
-<div><strong> 05 April 2026</strong> | <strong>Updated: 28 May 2026</strong></div>
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification"></a>
+<div><strong> 13 April 2026</strong> | <strong>Updated: 23 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
 
