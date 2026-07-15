@@ -24,6 +24,14 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 <!-- HASHNODE_Project:START -->
 <p align="left">
+<a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
+  <img src="https://i.ytimg.com/vi/K2BhRuBanJE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDt07uMpzbOt8_a43Ynhc8iAtW3w" alt="Course Recommendation System" width="250px" align="left" /></a>
+<a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
+  <strong>Loan Eligibility Classifier</strong></a>
+<div><strong> 28 March 2026 - 24 May 2026</strong></div>
+<br/> ML-powered loan eligibility prediction system using classification algorithms, feature engineering, and Streamlit for real-time decision support......... </p> <br/> <br/>
+
+<p align="left">
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
@@ -31,16 +39,6 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
-
-<p align="left">
-<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
-  <img src="https://github.com/user-attachments/assets/056fa18c-94a8-43a8-96d8-26f7e28a0208" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
-<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
-  <strong>WhatsApp Chat Analysis</strong></a>
-<div><strong> 18 May 2026 - 25 May 2026</strong></div>
-<br/> 
-A data-driven NLP application that transforms raw WhatsApp chat exports into actionable insights using Python and Streamlit. Explore conversation trends, user behavior, emoji patterns, word usage, and communication dynamics through interactive analytics...... </p> <br/> <br/>
-
 
 <p align="left">
 <a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
@@ -60,7 +58,6 @@ IPL Win Predictor using Machine Learning and Streamlit. The project performs dat
 <br/> 
 A content-based recommendation System that suggests similar courses using Natural Language Processing and cosine similarity on course metadata........ </p> <br/> <br/>
 
-
 <p align="left">
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Mall customer segmentation">
   <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
@@ -71,13 +68,13 @@ A content-based recommendation System that suggests similar courses using Natura
 <br/> Customer segmentation system using unsupervised machine learning (K-Means clustering) to group mall customers based on income, age, and spending behavior for targeted marketing strategies......... </p> <br/> <br/>
 
 <p align="left">
-<a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
-  <img src="https://i.ytimg.com/vi/K2BhRuBanJE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDt07uMpzbOt8_a43Ynhc8iAtW3w" alt="Course Recommendation System" width="250px" align="left" /></a>
-<a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
-  <strong>Loan Eligibility Classifier</strong></a>
-<div><strong> 28 March 2026 - 24 May 2026</strong></div>
-<br/> ML-powered loan eligibility prediction system using classification algorithms, feature engineering, and Streamlit for real-time decision support......... </p> <br/> <br/>
-
+<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
+  <img src="https://github.com/user-attachments/assets/056fa18c-94a8-43a8-96d8-26f7e28a0208" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
+<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
+  <strong>WhatsApp Chat Analysis</strong></a>
+<div><strong> 18 May 2026 - 25 May 2026</strong></div>
+<br/> 
+A data-driven NLP application that transforms raw WhatsApp chat exports into actionable insights using Python and Streamlit. Explore conversation trends, user behavior, emoji patterns, word usage, and communication dynamics through interactive analytics...... </p> <br/> <br/>
 
 
 ## Awards & Achievements
