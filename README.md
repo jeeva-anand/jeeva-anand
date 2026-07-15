@@ -29,9 +29,18 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <a href="" title="Semantic sentiment classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/blob/main/reports/figures/banner.png" width="250px" height="500px" align="left" /></a>
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="The Evolution of Artificial Intelligence"><strong>Semantic Sentiment Classification using NLP & Machine Learning</strong></a>
-<!-- <div><strong>23 March 2024</strong> | <strong>Updated: 4 April 2024</strong></div> -->
+<div><strong> April 2026</strong> | <strong>Updated: May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
+
+<p align="left">
+<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
+  <img src="https://github.com/jeeva-anand/WhatsApp-Chat-Analysis/raw/main/reports/figures/Banner.jpg" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
+<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
+  <strong>WhatsApp Chat Analysis</strong></a>
+<div><strong> April 2026</strong> | <strong>Updated: May 2026</strong></div>
+<br/> 
+A data-driven NLP application that transforms raw WhatsApp chat exports into actionable insights using Python and Streamlit. Explore conversation trends, user behavior, emoji patterns, word usage, and communication dynamics through interactive analytics...... </p> <br/> <br/>
 
 ## Awards & Achievements
 
