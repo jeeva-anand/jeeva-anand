@@ -1,4 +1,3 @@
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/f9e3b00b-2df3-47a1-8ed5-632ce91e6324" />
 # Anand, 👨‍💻  Machine Learning Engineer 
 
 - 👨‍🎓 MSc AI @ De Montfort University Dubai  
@@ -26,7 +25,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <!-- HASHNODE_Project:START -->
 <p align="left">
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification">
-  <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px" align="left" /></a>
+  <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px" height ='250px' align="left" /></a>
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification"></a>
 <div><strong> 13 April 2026</strong> | <strong>Updated: 23 May 2026</strong></div>
 <br/> 
@@ -34,7 +33,7 @@ Semantic sentiment classification system using NLP and Machine Learning. Compare
 
 <p align="left">
 <a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
-  <img src="https://lucen.app/images/whatsapp-chat-analysis.webp" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
+  <img src="https://github.com/user-attachments/assets/056fa18c-94a8-43a8-96d8-26f7e28a0208" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
 <a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
   <strong>WhatsApp Chat Analysis</strong></a>
 <div><strong> 18 May 2026 - 25 May 2026</strong></div>
@@ -76,8 +75,7 @@ A content-based recommendation System that suggests similar courses using Natura
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
   <strong>Loan Eligibility Classifier</strong></a>
 <div><strong> 28 March 2026 - 24 May 2026</strong></div>
-<br/> 
-........ </p> <br/> <br/>
+<br/> ML-powered loan eligibility prediction system using classification algorithms, feature engineering, and Streamlit for real-time decision support......... </p> <br/> <br/>
 
 
 
