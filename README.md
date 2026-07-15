@@ -24,10 +24,11 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 <!-- HASHNODE_Project:START -->
 <p align="left">
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification">
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification"></a>
-<div><strong> 13 April 2026</strong> | <strong>Updated: 23 May 2026</strong></div>
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification"></a>
+  <strong>Semantic Sentiment Classification</strong></a>
+<div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
 
@@ -45,7 +46,7 @@ A data-driven NLP application that transforms raw WhatsApp chat exports into act
 <a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
   <img src="https://github.com/jeeva-anand/IPL-Win-Prediction/raw/main/reports/figures/banner.png" alt="IPL Win Prediction" width="250px" align="left" /></a>
 <a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
-  <strong>WhatsApp Chat Analysis</strong></a>
+  <strong>IPL Win Prediction</strong></a>
 <div><strong> 09 May 2026 -  06 July 2026</strong></div>
 <br/> 
 IPL Win Predictor using Machine Learning and Streamlit. The project performs data preprocessing, feature engineering, model training, and real-time match outcome prediction based on live match conditions....... </p> <br/> <br/>
@@ -65,9 +66,9 @@ A content-based recommendation System that suggests similar courses using Natura
   <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
  alt="Course Recommendation System" width="250px" align="left" /></a>
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
-  <strong>Loan Eligibility Classifier</strong></a>
+  <strong>Course Recommendation System</strong></a>
 <div><strong> 16 May 2026 - 24 May 2026</strong></div>
-<br/> ML-powered loan eligibility prediction system using classification algorithms, feature engineering, and Streamlit for real-time decision support........ </p> <br/> <br/>
+<br/> Customer segmentation system using unsupervised machine learning (K-Means clustering) to group mall customers based on income, age, and spending behavior for targeted marketing strategies......... </p> <br/> <br/>
 
 <p align="left">
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
