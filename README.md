@@ -26,7 +26,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <p align="left">
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
   <img src="https://i.ytimg.com/vi/K2BhRuBanJE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDt07uMpzbOt8_a43Ynhc8iAtW3w" alt="Course Recommendation System" width="250px" align="left" /></a>
-<a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
+<a href="https://github.com/jeeva-anand/Loan-Eligibility-Classifier" title="Loan Eligibility Classifier">
   <strong>Loan Eligibility Classifier</strong></a>
 <div><strong> 28 March 2026 - 24 May 2026</strong></div>
 <br/> ML-powered loan eligibility prediction system using classification algorithms, feature engineering, and Streamlit for real-time decision support......... </p> <br/> <br/>
@@ -34,7 +34,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <p align="left">
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
+<a href="[https://huggingface.co/spaces/jeeva3/Sentiment-Analysis](https://github.com/jeeva-anand/Semantic-Sentiment-Classification)" title="Semantic Sentiment Classification">
   <strong>Semantic Sentiment Classification</strong> </a>
 <div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
@@ -43,7 +43,7 @@ Semantic sentiment classification system using NLP and Machine Learning. Compare
 <p align="left">
 <a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
   <img src="https://github.com/jeeva-anand/IPL-Win-Prediction/raw/main/reports/figures/banner.png" alt="IPL Win Prediction" width="250px" align="left" /></a>
-<a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
+<a href="https://github.com/jeeva-anand/IPL-Win-Prediction" title="IPL Win Prediction">
   <strong>IPL Win Prediction</strong></a>
 <div><strong> 09 May 2026 -  06 July 2026</strong></div>
 <br/> 
@@ -62,7 +62,7 @@ A content-based recommendation System that suggests similar courses using Natura
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Mall customer segmentation">
   <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
  alt="Mall customer segmentation" width="250px" align="left" /></a>
-<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Mall customer segmentation">
+<a href="https://github.com/jeeva-anand/Mall-Customer-Segmentation" title="Mall customer segmentation">
   <strong>Mall customer segmentation</strong></a>
 <div><strong> 16 May 2026 - 24 May 2026</strong></div>
 <br/> Customer segmentation system using unsupervised machine learning (K-Means clustering) to group mall customers based on income, age, and spending behavior for targeted marketing strategies......... </p> <br/> <br/>
@@ -70,7 +70,7 @@ A content-based recommendation System that suggests similar courses using Natura
 <p align="left">
 <a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
   <img src="https://github.com/user-attachments/assets/056fa18c-94a8-43a8-96d8-26f7e28a0208" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
-<a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
+<a href="https://github.com/jeeva-anand/WhatsApp-Chat-Analysis" title="WhatsApp Chat Analysis">
   <strong>WhatsApp Chat Analysis</strong></a>
 <div><strong> 18 May 2026 - 25 May 2026</strong></div>
 <br/> 
