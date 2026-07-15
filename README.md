@@ -1,4 +1,4 @@
-
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/f9e3b00b-2df3-47a1-8ed5-632ce91e6324" />
 # Anand, 👨‍💻  Machine Learning Engineer 
 
 - 👨‍🎓 MSc AI @ De Montfort University Dubai  
@@ -62,7 +62,7 @@ A content-based recommendation System that suggests similar courses using Natura
 
 
 <p align="left">
-<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
+<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Course Recommendation System">
   <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
  alt="Course Recommendation System" width="250px" align="left" /></a>
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
@@ -72,12 +72,12 @@ A content-based recommendation System that suggests similar courses using Natura
 
 <p align="left">
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
-  <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/loan-prediction-using-machine-learning-project-source-code/Loan_Prediction_using__Machine_Learning_Project.png" alt="Course Recommendation System" width="250px" align="left" /></a>
+  <img src="https://i.ytimg.com/vi/K2BhRuBanJE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDt07uMpzbOt8_a43Ynhc8iAtW3w" alt="Course Recommendation System" width="250px" align="left" /></a>
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
   <strong>Loan Eligibility Classifier</strong></a>
-<div><strong> 16 May 2026 - 24 May 2026</strong></div>
+<div><strong> 28 March 2026 - 24 May 2026</strong></div>
 <br/> 
-Customer segmentation system using unsupervised machine learning (K-Means clustering) to group mall customers based on income, age, and spending behavior for targeted marketing strategies........ </p> <br/> <br/>
+........ </p> <br/> <br/>
 
 
 
