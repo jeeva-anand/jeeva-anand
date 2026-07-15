@@ -26,8 +26,8 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <p align="left">
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
-<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification"></a>
-  <strong>Semantic Sentiment Classification</strong>
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
+  <strong>Semantic Sentiment Classification</strong> </a>
 <div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
