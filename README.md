@@ -1,4 +1,4 @@
-
+<img width="2732" height="1536" alt="image" src="https://github.com/user-attachments/assets/f172bc66-a491-4d9a-aaa8-8ee6cfbd022a" />
 
 # Anand, 👨‍💻  Machine Learning Engineer 
 
@@ -26,21 +26,34 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="" title="Semantic sentiment classification">
+<a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="The Evolution of Artificial Intelligence"><strong>Semantic Sentiment 
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/blob/main/reports/figures/banner.png" width="250px" height="500px" align="left" /></a>
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="The Evolution of Artificial Intelligence"><strong>Semantic Sentiment Classification using NLP & Machine Learning</strong></a>
-<div><strong> April 2026</strong> | <strong>Updated: May 2026</strong></div>
+<div><strong> 05 April 2026</strong> | <strong>Updated: 28 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
 
 <p align="left">
 <a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
-  <img src="https://github.com/jeeva-anand/WhatsApp-Chat-Analysis/raw/main/reports/figures/Banner.jpg" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
+  <img src="https://i.redd.it/tpca4a8vfol51.png" alt="WhatsApp Chat Analysis" width="250px" align="left" /></a>
 <a href="https://what-schatanalysis-hqh3vsmo3ekacakmdewwq8.streamlit.app/" title="WhatsApp Chat Analysis">
   <strong>WhatsApp Chat Analysis</strong></a>
-<div><strong> April 2026</strong> | <strong>Updated: May 2026</strong></div>
+<div><strong> 18 May 2026</strong> | <strong>Updated: 25 May 2026</strong></div>
 <br/> 
 A data-driven NLP application that transforms raw WhatsApp chat exports into actionable insights using Python and Streamlit. Explore conversation trends, user behavior, emoji patterns, word usage, and communication dynamics through interactive analytics...... </p> <br/> <br/>
+
+
+<p align="left">
+<a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
+  <img src="https://github.com/jeeva-anand/IPL-Win-Prediction/raw/main/reports/figures/banner.png" alt="IPL Win Prediction" width="250px" align="left" /></a>
+<a href="https://ipl-win-prediction-2k25.streamlit.app/" title="IPL Win Prediction">
+  <strong>WhatsApp Chat Analysis</strong></a>
+<div><strong> 09 May 2026</strong> | <strong>Updated: 06 July 2026</strong></div>
+<br/> 
+IPL Win Predictor using Machine Learning and Streamlit. The project performs data preprocessing, feature engineering, model training, and real-time match outcome prediction based on live match conditions....... </p> <br/> <br/>
+
+
+
 
 ## Awards & Achievements
 
