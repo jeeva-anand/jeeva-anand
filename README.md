@@ -27,7 +27,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px" height ='500px' align="left" /></a>
 
-  <img width="447" height="805" alt="image" src="https://github.com/user-attachments/assets/871520b3-0736-4a3a-beac-c5b9a8affbdc" />
+  <img width="447" height="405" alt="image" src="https://github.com/user-attachments/assets/871520b3-0736-4a3a-beac-c5b9a8affbdc" />
 
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="emantic Sentiment Classification"></a>
 <div><strong> 13 April 2026</strong> | <strong>Updated: 23 May 2026</strong></div>
