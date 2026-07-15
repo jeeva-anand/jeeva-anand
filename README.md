@@ -63,8 +63,8 @@ A content-based recommendation System that suggests similar courses using Natura
 
 <p align="left">
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
-  <img width="938" height="460" alt="image" src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
-" alt="Course Recommendation System" width="250px" align="left" /></a>
+  <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
+ alt="Course Recommendation System" width="250px" align="left" /></a>
 <a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
   <strong>Loan Eligibility Classifier</strong></a>
 <div><strong> 16 May 2026 - 24 May 2026</strong></div>
@@ -72,8 +72,7 @@ A content-based recommendation System that suggests similar courses using Natura
 
 <p align="left">
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
-  <img width="938" height="460" alt="image" src="https://daxg39y63pxwu.cloudfront.net/images/blog/loan-prediction-using-machine-learning-project-source-code/Loan_Prediction_using__Machine_Learning_Project.png"
-" alt="Course Recommendation System" width="250px" align="left" /></a>
+  <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/loan-prediction-using-machine-learning-project-source-code/Loan_Prediction_using__Machine_Learning_Project.png" alt="Course Recommendation System" width="250px" align="left" /></a>
 <a href="https://loan-eligibility-classifier-ml-application.streamlit.app/" title="Loan Eligibility Classifier">
   <strong>Loan Eligibility Classifier</strong></a>
 <div><strong> 16 May 2026 - 24 May 2026</strong></div>
