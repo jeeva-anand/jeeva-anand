@@ -34,7 +34,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <p align="left">
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
-<a href="[https://huggingface.co/spaces/jeeva3/Sentiment-Analysis](https://github.com/jeeva-anand/Semantic-Sentiment-Classification)" title="Semantic Sentiment Classification">
+<a href="https://github.com/jeeva-anand/Semantic-Sentiment-Classification" title="Semantic Sentiment Classification">
   <strong>Semantic Sentiment Classification</strong> </a>
 <div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
@@ -52,7 +52,7 @@ IPL Win Predictor using Machine Learning and Streamlit. The project performs dat
 <p align="left">
 <a href="https://course-recommendation-system-ia4mbvmbnmpz6tw2ldsx6e.streamlit.app/" title="Course Recommendation System">
   <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f399d897dc0e.jpg" alt="Course Recommendation System" width="250px" align="left" /></a>
-<a href="https://course-recommendation-system-ia4mbvmbnmpz6tw2ldsx6e.streamlit.app/" title="Course Recommendation System">
+<a href="https://github.com/jeeva-anand/Course-Recommendation-System" title="Course Recommendation System">
   <strong>Course Recommendation System</strong></a>
 <div><strong> 15 May 2026 -  16 May 2026</strong></div>
 <br/> 
