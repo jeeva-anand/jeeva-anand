@@ -27,7 +27,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification">
   <img src="https://github.com/jeeva-anand/Semantic-Sentiment-Classification/raw/main/reports/figures/banner.png" width="250px"  align="left" /></a>
 <a href="https://huggingface.co/spaces/jeeva3/Sentiment-Analysis" title="Semantic Sentiment Classification"></a>
-  <strong>Semantic Sentiment Classification</strong></a>
+  <strong>Semantic Sentiment Classification</strong>
 <div><strong> 13 April 2026 - 23 May 2026</strong></div>
 <br/> 
 Semantic sentiment classification system using NLP and Machine Learning. Compares BoW, TF-IDF, Word2Vec, and Doc2Vec embeddings with multiple classifiers to understand contextual sentiment in real-world text...... </p> <br/> <br/>
@@ -62,11 +62,11 @@ A content-based recommendation System that suggests similar courses using Natura
 
 
 <p align="left">
-<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Course Recommendation System">
+<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Mall customer segmentation">
   <img src="https://github.com/user-attachments/assets/fc9ca6cc-9803-49f4-b6ad-e673a7959c77"
- alt="Course Recommendation System" width="250px" align="left" /></a>
-<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Loan Eligibility Classifier">
-  <strong>Course Recommendation System</strong></a>
+ alt="Mall customer segmentation" width="250px" align="left" /></a>
+<a href="https://mall-customer-segmentation-fhzkknhmziysfvxcmsemc2.streamlit.app/" title="Mall customer segmentation">
+  <strong>Mall customer segmentation</strong></a>
 <div><strong> 16 May 2026 - 24 May 2026</strong></div>
 <br/> Customer segmentation system using unsupervised machine learning (K-Means clustering) to group mall customers based on income, age, and spending behavior for targeted marketing strategies......... </p> <br/> <br/>
 
