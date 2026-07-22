@@ -22,7 +22,7 @@ To know more about me, visit [anand.dev/about](https://jeevaanand.vercel.app/).<
 ## Leadership Experience
 
 | 🏫 Organization Name | 📅 Date  | 🌟 Role  
-| --- | --- | --- | --- | 
+| --- | --- | --- |
 | Pioneer College, Coimbatore | June 2019 - May - 2021 | Information Technology Club head 
 | St Joseph's University | Aug 2024 - May - 2025 | Coding & Debugging Event Head
 <br/>
